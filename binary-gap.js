@@ -18,8 +18,7 @@ function solution(N) {
     
 }
 
-var a1 = 15; //10000010001
-// var a2 = ;
+var a1 = 15; 
 
 console.log(solution(a1));
 
