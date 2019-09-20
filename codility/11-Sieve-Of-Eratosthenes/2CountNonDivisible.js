@@ -1,0 +1,1 @@
+// https://app.codility.com/demo/results/trainingBGC2DZ-XXR/

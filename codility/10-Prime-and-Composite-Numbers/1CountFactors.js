@@ -1,0 +1,1 @@
+// https://app.codility.com/demo/results/trainingCG9QBF-X7J/
